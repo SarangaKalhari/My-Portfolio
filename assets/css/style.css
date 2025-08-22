@@ -53,6 +53,8 @@ nav {
     border-radius: 50%;
     border: 5px solid #1e293b;
     box-shadow: 0 0 30px rgba(0, 198, 255, 0.3);
+    margin-left: 100px;
+    padding: 15px;
 }
 
 .home-profile{
@@ -177,7 +179,7 @@ nav {
     /* blue focus */
 }
 
-.contact-form button {
+.btnClass {
     width: 100%;
     padding: 15px;
     border: none;
